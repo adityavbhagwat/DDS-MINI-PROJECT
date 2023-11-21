@@ -2,6 +2,8 @@
 
 <!-- First Section -->
 ## Team Details
+  <details>
+  <summary> <b> Details </b> </summary>
 **Semester:** 3rd Sem B. Tech. CSE
 
 **Section:** S2
@@ -12,14 +14,18 @@
 
 **Member 2:** Aditya V Bhagwat, 221CS203, [adityavb.221cs203@nitk.edu.in](mailto:adityavb.221cs203@nitk.edu.in)
 
+</details>
+
 <!-- Second Section -->
 ## Abstract
-  
+  <details>
+  <summary> <b> Details </b> </summary>
   Multi-storied buildings nowadays generally have elevator systems within them for ease of commutation. 
   
   These elevator systems need precise smart and greedy control to carry out the task assigned to them in a most efficient and time saving manner. In our work, we have focused on developing and implementing an algorithm for elevator control system which can be scaled for an arbitrary “N” floor building’s elevator control as well. 
   
   Our goal is to design and simulate a working elevator system implemented via logic gates utilising our algorithm, and then possibly extend it to multiple lifts together upto an N-storeyed building. 
+  </details>
 
 <!-- Third Section -->
 ## Working
